@@ -39,4 +39,4 @@ Gerar mais contatos e solicitações de orçamento para o serviço.
 
 ## 📌 Status
 
-✔ Projeto finalizado (ou em evolução)
+✔ Projeto finalizado 
